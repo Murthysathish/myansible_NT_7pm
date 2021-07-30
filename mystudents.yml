@@ -1,0 +1,24 @@
+---
+- mystudents: 
+  - name: suresh
+    phno:  7777777777
+    address: 
+      doorno: 777
+      srteetno: 1
+      pincode: 666677
+
+    
+  - name: sai
+    phno: 8888888888
+    address:
+       doorno: 11
+       srteetno: 3
+       pincode: 666666
+
+
+  - name: sathwik
+    phno: 6666666666
+    address: 
+     doorno: 1
+     srteetno: 33
+     pincode: 6779998
