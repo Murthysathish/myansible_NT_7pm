@@ -9,4 +9,7 @@
   - name: i want to start webservers
     service:
       name: apache2
- 
+  - name: install tree
+    apt:
+     name: tree
+     state: present
