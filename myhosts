@@ -23,6 +23,6 @@
 
 [mywebservers:vars]
 key=value
-myubuntuwebapack=apache2
-myredhatwebpack=httpd
+myubuntuwebapack=apache2222
+myredhatwebpack=httpd111111
 
